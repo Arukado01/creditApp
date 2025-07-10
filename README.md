@@ -1,7 +1,7 @@
 # CreditApp – Prueba técnica  
 #### La actual App fue desarrollada con las siguientes tecnologías:
 
-#### _Front-end: React (Vite) · Back-end (Python): Flask/SQLAlchemy · PostgreSQL · Celery + Redis · JWT_
+#### _Front-end: React (Vite) · Back-end (Python): Flask/SQLAlchemy · PostgreSQL · Celery + Redis · JWT_ · Servidor AWS: EC2 + RDS
 
 #### Para revisar el proyecto en productivo seguir este enlace: https://creditapp.3-139-21-107.nip.io/, puede registrarse con su correo e iniciar el recorrido en el SPA.
 
