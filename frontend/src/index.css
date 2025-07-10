@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* --- Componentes reutilizables --- */
+@layer components {
+  .btn {
+    @apply inline-flex items-center justify-center px-4 py-2 rounded-lg font-medium transition;
+  }
+
+  .btn-primary {
+    @apply btn bg-primary text-white hover:bg-primary/90;
+  }
+
+  .btn-outline {
+    @apply btn border border-primary text-primary hover:bg-primary hover:text-white;
+  }
+
+  .input {
+    @apply block w-full border border-slate-300 rounded-md px-4 py-2 focus:border-primary focus:ring-primary;
+  }
+
+  .card {
+    @apply bg-white rounded-lg shadow-card p-6;
+  }
+
+  .table-head {
+    @apply bg-slate-100 text-left text-sm font-medium text-slate-600;
+  }
+
+  .table-cell {
+    @apply p-3 text-sm text-slate-700;
+  }
+}
+
+@layer base {
+  .swal2-popup {
+    @apply rounded-xl shadow-card;
+  }
+
+  .swal2-confirm {
+    @apply bg-primary text-white !important;
+  }
+}
+
+nav a.active { @apply underline font-bold; }
+
