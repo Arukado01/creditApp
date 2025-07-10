@@ -5,9 +5,9 @@
 
 #### Para revisar el proyecto en productivo seguir este enlace: https://creditapp.3-139-21-107.nip.io/, puede registrarse con su correo e iniciar el recorrido en el SPA.
 
-    - Si no desea realizar el proceso de registro puede conectarse con las siguientes credenciales:
-        - User: `uprueba3@falso.com`-
-        - Pass: `Klapausius3#`-
+- Si no desea realizar el proceso de registro puede ingresar al SPA con las siguientes credenciales:
+    - User: `uprueba3@falso.com`-
+    - Pass: `Klapausius3#`-
 
 #### Si desea conectarse al servicio web API Rest, puede hacerlo descargando la colección `CreditApp REST API Local.postman_collection.json` ubicado en este git, importandolo en postman(punto 5) y reemplazando la variable {{base_url}} por el enlace: https://api.3-139-21-107.nip.io/api/v1
 ---
