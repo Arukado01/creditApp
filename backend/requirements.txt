@@ -1,22 +1,47 @@
 # Versiones probadas en Ubuntu 24.04 / Python 3.12
 # Puedes actualizar libremente.
 
+lembic==1.16.4 
+amqp==5.3.1
+async-timeout==5.0.1
+bcrypt==4.3.0
+billiard==4.2.1
+blinker==1.9.0
+celery==5.4.0
+click==8.2.1
+click-didyoumean==0.3.1
+click-plugins==1.1.1.2
+click-rep1=0.3.0
 Flask==3.0.3
+Flask-Bcrypt==1.0.1
+Flask-Cors==4.0.0
 Flask-JWT-Extended==4.6.0
 Flask-Mail==0.9.1
 Flask-Migrate==4.0.7
 Flask-SQLAlchemy==3.1.1
+greenlet==3.2.3
+gunicorn==23.0.0
+itsdangerous==2.2.0
+Jinja2==3.1.6
+kcmbu==5.5.4
+Mako==1.3.10
+MarkupSafe==3.0.2
 marshmallow==3.21.2
 marshmallow-sqlalchemy==1.0.0
-itsdangerous==2.2.0
-python-dotenv==1.0.1
-
-# Base de datos
+packaging==25.0
+prompt
+toolkit==3.0.51
 psycopg2-binary==2.9.9
-
-# Tareas asíncronas
-celery==5.4.0
+PyJWT==2.10.1
+python-dateutil==2.9.0.post0
+python-dotenv==1.0.1
 redis==5.0.4
-
-# Linter (opcional, desarrollo)
 ruff==0.4.4
+six==1.17.0
+SQLAlchemy==2.0.41
+tomli==2.2.1
+typing_extensions==4.14.1
+tzdata==2025.2
+vine==5.1.0
+wcwidth==0.2.13
+Werkzeug==3.1.3
