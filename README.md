@@ -37,7 +37,7 @@ Instalación rápida en Ubuntu:
 ```bash
 sudo apt update && sudo apt install -y \
   python3.12-venv build-essential redis-server postgresql-16
-nvm install 18 && nvm use 18          # Node
+nvm install 22 && nvm use 22          # Node
 ```
 ---
 ## 2. Clonar proyecto y estructura
