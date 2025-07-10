@@ -1,11 +1,11 @@
 # CreditApp – Prueba técnica  
-La actual App fue desarrollada con las siguientes tecnologías:
+#### La actual App fue desarrollada con las siguientes tecnologías:
 
-_Front-end: React (Vite) · Back-end (Python): Flask/SQLAlchemy · PostgreSQL · Celery + Redis · JWT_
+#### _Front-end: React (Vite) · Back-end (Python): Flask/SQLAlchemy · PostgreSQL · Celery + Redis · JWT_
 
-##### Para revisar el proyecto en productivo seguir este enlace: https://creditapp.3-139-21-107.nip.io/, puede registrarse con su correo e iniciar el recorrido en el SPA.
+#### Para revisar el proyecto en productivo seguir este enlace: https://creditapp.3-139-21-107.nip.io/, puede registrarse con su correo e iniciar el recorrido en el SPA.
 
-##### Si desea conectarse al servicio web API Rest, puede hacerlo descargando la colección `CreditApp REST API Local.postman_collection.json` ubicado en este git, importandolo en postman(punto 5) y reemplazando la variable {{base_url}} por el enlace: https://api.3-139-21-107.nip.io/api/v1
+#### Si desea conectarse al servicio web API Rest, puede hacerlo descargando la colección `CreditApp REST API Local.postman_collection.json` ubicado en este git, importandolo en postman(punto 5) y reemplazando la variable {{base_url}} por el enlace: https://api.3-139-21-107.nip.io/api/v1
 ---
 
 ## 0. Puntos clave para compartir 📌
